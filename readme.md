@@ -4,4 +4,4 @@
 
 > mvn spring-boot:run
 
-please help me, i must praise the lord
+Test is good
